@@ -20,4 +20,4 @@ Dann unten einfügen:
 
 `@reboot sleep 60 && sudo python3 /opt/callmon/callmon.py`
 
-wenn der Callmonitor in `/opt/callmon' liegt.
+wenn der Callmonitor in `/opt/callmon` liegt.
